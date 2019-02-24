@@ -1,4 +1,4 @@
-# Video-Artistic-Style-Transfer-Wit-Pytorch
+# Video-Artistic-Style-Transfer-With-Pytorch
 
 ## A. Dependencies:
 1. OpenCV 3
