@@ -1,4 +1,5 @@
 # Video-Artistic-Style-Transfer-With-Pytorch
+Transfer the style from one or more images (for example, a painting) to a whole video using Pytorch
 
 ## A. Dependencies:
 1. OpenCV 3
