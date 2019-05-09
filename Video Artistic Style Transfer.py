@@ -246,36 +246,3 @@ def img_to_video(st_output_dir):
 	video.release()
 
 img_to_video('output_style_transferred_frames')
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-"""
-def load_content_images(content_img_dir):
-	content_image_list = []
-	for filename in glob.glob(content_img_dir + '/*.png'):
-		print(filename)
-		print(type(filename))
-		img = load_image(filename)
-		content_image_list.append(img)
-	return content_image_list
-
-#content_images = load_content_images('input_content_frames')
-#print(len(content_images))
-#print(content_images[0].shape)
-
-"""
