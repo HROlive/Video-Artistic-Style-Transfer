@@ -1,7 +1,7 @@
 [//]: # (Image Reference)
 
 [image1]: ./readme_images/images.PNG "Images"
-[image2]: ./images/video.PNG "Videos"
+[image2]: ./readme_images/video.PNG "Videos"
 
 # Video Artistic Style Transfer With Pytorch
 Transfer the style from one or more images (for example, a painting) to a whole video using Pytorch. 
@@ -10,6 +10,7 @@ Developed as a capstone project for [Harvard CS50: Introduction to Computer Scie
 [Watch the video with the implementation and final result](https://www.youtube.com/watch?v=jqcolu3l644)
 
 ![Images][image1]
+![Videos][image2]
 
 ## Dependencies:
 1. OpenCV 3
@@ -17,8 +18,6 @@ Developed as a capstone project for [Harvard CS50: Introduction to Computer Scie
 3. Matplotlib
 4. Numpy
 5. PIL
-
-![Videos][image2]
 
 ## Steps to run:
 1. Install all the dependencies on your computer. (Use Anaconda preferably to install all the necessary libraries and packages)
