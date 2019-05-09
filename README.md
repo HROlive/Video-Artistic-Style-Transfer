@@ -11,15 +11,14 @@ Developed as a capstone project for [Harvard CS50: Introduction to Computer Scie
 
 ![Images][image1]
 
-
-![Videos][image2]
-
 ## Dependencies:
 1. OpenCV 3
 2. PyTorch 1.0
 3. Matplotlib
 4. Numpy
 5. PIL
+
+![Videos][image2]
 
 ## Steps to run:
 1. Install all the dependencies on your computer. (Use Anaconda preferably to install all the necessary libraries and packages)
