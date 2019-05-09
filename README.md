@@ -1,26 +1,27 @@
 [//]: # (Image Reference)
 
 [image1]: ./readme_images/images.PNG "Images"
-
-
 [image2]: ./images/video.PNG "Videos"
 
 # Video Artistic Style Transfer With Pytorch
-Transfer the style from one or more images (for example, a painting) to a whole video using Pytorch. Developed as a capstone project for [Harvard CS50: Introduction to Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science).
+Transfer the style from one or more images (for example, a painting) to a whole video using Pytorch. 
+Developed as a capstone project for [Harvard CS50: Introduction to Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science).
 
 [Watch the video with the implementation and final result](https://www.youtube.com/watch?v=jqcolu3l644)
 
 ![Images][image1]
+
+
 ![Videos][image2]
 
-## A. Dependencies:
+## Dependencies:
 1. OpenCV 3
 2. PyTorch 1.0
 3. Matplotlib
 4. Numpy
 5. PIL
 
-## B. Steps to run:
+## Steps to run:
 1. Install all the dependencies on your computer. (Use Anaconda preferably to install all the necessary libraries and packages)
 2. Open Anaconda Command Prompt
 3. Change directory (cd) to the location where the python file is present (here, "Video Artistic Style Transfer.py")
@@ -30,6 +31,5 @@ Transfer the style from one or more images (for example, a painting) to a whole 
 6. The program will run successfully and you will see the desired output processed video in the folder: "output_processed_video".
 7. Open the video and check the result.
 
-## C. Video Credits:
-All over in 10 seconds - Ian Rushton.
+## Video Credits:
 Link : https://www.youtube.com/watch?v=rUWxSEwctFU
