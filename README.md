@@ -19,7 +19,11 @@ Developed as a capstone project for [Harvard CS50: Introduction to Computer Scie
 4. Numpy
 5. PIL
 
-## Steps to run:
+## Steps to run on Google Colab:
+1. Open the [notebook](https://github.com/HROlive/Video-Artistic-Style-Transfer/blob/master/Video_Artistic_Style_Transfer.ipynb) on Google Colab
+2. Click on "Edit" menu, "Notebook settings" and select "Hardware accelarator" GPU
+
+## Steps to run locally:
 1. Install all the dependencies on your computer. (Use Anaconda preferably to install all the necessary libraries and packages)
 2. Open Anaconda Command Prompt
 3. Change directory (cd) to the location where the python file is present (here, "Video Artistic Style Transfer.py")
