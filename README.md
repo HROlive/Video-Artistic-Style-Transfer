@@ -1,6 +1,15 @@
+[//]: # (Image Reference)
+
+[image1]: ./readme_images/images.PNG "Images"
+[image2]: ./images/video.PNG "Videos"
+
 # Video Artistic Style Transfer With Pytorch
-Transfer the style from one or more images (for example, a painting) to a whole video using Pytorch
-https://www.youtube.com/watch?v=jqcolu3l644
+Transfer the style from one or more images (for example, a painting) to a whole video using Pytorch. Developed as a capstone project for [Harvard CS50: Introduction to Computer Science](https://online-learning.harvard.edu/course/cs50-introduction-computer-science).
+
+[Watch the video with the implementation and final result](https://www.youtube.com/watch?v=jqcolu3l644)
+
+![Images][image1]
+![Videos][image2]
 
 ## A. Dependencies:
 1. OpenCV 3
